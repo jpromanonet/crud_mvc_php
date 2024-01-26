@@ -28,4 +28,4 @@ How to use it?
 12. If everything is ok, you are logedin and a SESSION for 1 minute is created.
 
 ## Architecture Diagrama
-![Alt Text](./images/arch.jpg)
+![Diagrama de arquitectura](./images/arch.png)
